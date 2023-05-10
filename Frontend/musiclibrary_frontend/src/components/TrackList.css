@@ -1,0 +1,63 @@
+.center {
+  margin: auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #333;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+.button {
+  background-color: #333; /* Hintergrundfarbe */
+  border: none; /* Kein Rahmen */
+  color: white; /* Schriftfarbe */
+  padding: 8px 16px; /* Innenabstand */
+  text-align: center; /* Text zentrieren */
+  text-decoration: none; /* Keine Unterstreichung */
+  display: inline-block; /* Als Blockelement behandeln */
+  font-size: 16px; /* Schriftgröße */
+  margin: 5px; /* Außenabstand */
+  cursor: pointer; /* Mauszeiger ändern */
+  border-radius: 4px; /* Abrundung der Ecken */
+}
+
+.button:hover {
+  background-color: #646363; /* Hintergrundfarbe bei Hover */
+}
+
+.buttonAdd {
+    background-color: #333; /* Hintergrundfarbe */
+    border: none; /* Kein Rahmen */
+    color: white; /* Schriftfarbe */
+    padding: 8px 16px; /* Innenabstand */
+    text-align: center; /* Text zentrieren */
+    text-decoration: none; /* Keine Unterstreichung */
+    display: inline-block; /* Als Blockelement behandeln */
+    font-size: 16px; /* Schriftgröße */
+    margin-top: 50px; /* Außenabstand */
+    cursor: pointer; /* Mauszeiger ändern */
+    border-radius: 4px; /* Abrundung der Ecken */
+}
+
+.buttonAdd:hover {
+    background-color: #646363; /* Hintergrundfarbe bei Hover */
+}
