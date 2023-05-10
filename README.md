@@ -1,4 +1,6 @@
 # Track-Verwaltung
+Dieses Projekt entstand durch eine Entwickleraufgabe für ein Bewerbungsverfahren.
+
 Dies ist eine Spring-Boot-Anwendung zur Verwaltung von Lieblingsmusik, die CRUD-Operationen für eine Entität bietet und Daten in einer Datenbank persistiert. Die Anwendung besteht aus einer REST-Schnittstelle und einer Web-Benutzeroberfläche.
 
 ## Technologien
